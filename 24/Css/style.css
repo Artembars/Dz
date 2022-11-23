@@ -1,0 +1,10 @@
+.block { 
+  left: 50%;
+  right: 50px;
+  bottom: 100px;
+  min-height: 100px;
+  max-width: 100% ;
+  background: linear-gradient(#a04545,#37c2b6);
+  position: fixed ;
+  border: solid #333 5px;
+}
